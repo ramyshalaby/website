@@ -6469,3 +6469,6 @@ input.main-search-input::placeholder {
 .preloader .animation-preloader .txt-loading .letters-loading:nth-child(8),.preloader .animation-preloader .txt-loading .letters-loading:nth-child(9) {
     color: var(--theme);
 }
+.section-padding2 {
+  padding: 50px 0;
+}
